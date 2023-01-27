@@ -35,7 +35,7 @@ Site desenvolvido durante o curso [HTML e CSS: ambientes de desenvolvimento, est
 
 1. Clonar o repositório:
 ```
-git clone https://github.com/strawndri/html-e-css-IV.git
+git clone https://github.com/strawndri/portfolio-I.git
 ```
 
 2. Localizar e acessar a pasta "portfolio-I";
