@@ -42,7 +42,7 @@ git clone https://github.com/strawndri/html-e-css-IV.git
 3. Dar um duplo click no arquivo "index.html".
 
 Caso não queria realizar o processo acima, você pode acessar o site a partir do Github Pages:
-- [Barbearia Alura no Github Pages](https://strawndri.github.io/portfolio-I/)
+- [Meu portfólio no Github Pages](https://strawndri.github.io/portfolio-I/)
 
 ## Tecnologias
 - [x] [HTML5](https://www.w3schools.com/html/default.asp)
